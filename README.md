@@ -16,11 +16,11 @@ A professional academic portfolio website built with Jekyll and optimized for Gi
 
 ### 1. Repository Setup
 
-1. Create a new repository named `duongvn.github.io` on GitHub
+1. Create a new repository named `Duongvu05.github.io` on GitHub
 2. Clone this repository locally:
    ```bash
-   git clone https://github.com/duongvn/duongvn.github.io.git
-   cd duongvn.github.io
+   git clone https://github.com/Duongvu05/Duongvu05.github.io.git
+   cd Duongvu05.github.io
    ```
 
 ### 2. Add Required Assets
@@ -73,7 +73,7 @@ bundle exec jekyll serve
    - Click **Save**
 
 3. Wait 1-2 minutes for deployment
-4. Visit `https://duongvn.github.io`
+4. Visit `https://Duongvu05.github.io`
 
 ## Site Structure
 
@@ -246,7 +246,7 @@ No custom plugins are required or used.
 
 For issues or questions:
 - Email: vungocduong255@gmail.com
-- GitHub: [@duongvn](https://github.com/duongvn)
+- GitHub: [@Duongvu05](https://github.com/Duongvu05)
 
 ## License
 
