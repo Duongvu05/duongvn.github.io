@@ -1,6 +1,6 @@
-# Tuan-Cuong Vuong - AI Research Portfolio
+# Vu Ngoc Duong - Data Science Portfolio
 
-A professional academic portfolio website built with Jekyll and optimized for GitHub Pages. This site showcases research publications, blog posts, and professional information for AI researcher Tuan-Cuong Vuong.
+A professional academic portfolio website built with Jekyll and optimized for GitHub Pages. This site showcases research publications, blog posts, and professional information for Data Science student Vu Ngoc Duong.
 
 ## Features
 
@@ -16,11 +16,11 @@ A professional academic portfolio website built with Jekyll and optimized for Gi
 
 ### 1. Repository Setup
 
-1. Create a new repository named `cngvng.github.io` on GitHub
+1. Create a new repository named `duongvn.github.io` on GitHub
 2. Clone this repository locally:
    ```bash
-   git clone https://github.com/cngvng/cngvng.github.io.git
-   cd cngvng.github.io
+   git clone https://github.com/duongvn/duongvn.github.io.git
+   cd duongvn.github.io
    ```
 
 ### 2. Add Required Assets
@@ -73,7 +73,7 @@ bundle exec jekyll serve
    - Click **Save**
 
 3. Wait 1-2 minutes for deployment
-4. Visit `https://cngvng.github.io`
+4. Visit `https://duongvn.github.io`
 
 ## Site Structure
 
@@ -120,9 +120,9 @@ bundle exec jekyll serve
 Edit `_config.yml`:
 
 ```yaml
-owner_name: "Your Name"
-owner_affiliation: "Your Institution"
-owner_email: "your.email@example.com"
+owner_name: "Vu Ngoc Duong"
+owner_affiliation: "National Economics University, Vietnam"
+owner_email: "vungocduong255@gmail.com"
 
 socials:
   scholar: "https://scholar.google.com/..."
@@ -173,9 +173,10 @@ Your post content in Markdown...
 Edit `_data/interests.yml`:
 
 ```yaml
+- "Fraud Detection"
+- "Blockchain Applications"
 - "Machine Learning"
-- "Computer Vision"
-- "Your Interest Here"
+- "Data Science"
 ```
 
 ### Update Contact Links
@@ -244,8 +245,8 @@ No custom plugins are required or used.
 ## Support
 
 For issues or questions:
-- Email: cngvng.work@gmail.com
-- GitHub: [@cngvng](https://github.com/cngvng)
+- Email: vungocduong255@gmail.com
+- GitHub: [@duongvn](https://github.com/duongvn)
 
 ## License
 

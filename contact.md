@@ -70,10 +70,10 @@ permalink: /contact/
     <h2>Collaboration Opportunities</h2>
     <p>I am actively seeking:</p>
     <ul style="padding-left: 2rem; margin-bottom: 1.5rem;">
-      <li><strong>PhD positions</strong> in AI, Machine Learning, and related fields</li>
-      <li><strong>Research collaborations</strong> on projects involving computer vision, NLP, or explainable AI</li>
-      <li><strong>Industry partnerships</strong> for applied AI research</li>
-      <li><strong>Speaking opportunities</strong> at conferences, workshops, and seminars</li>
+      <li><strong>Research opportunities</strong> in AI, blockchain applications, and fraud detection</li>
+      <li><strong>Research collaborations</strong> on projects involving AI for social good, computer vision, or financial technology</li>
+      <li><strong>Internship opportunities</strong> for data science and AI research</li>
+      <li><strong>Mentorship opportunities</strong> in AI/ML and blockchain research</li>
     </ul>
     <p>If you have opportunities or ideas for collaboration, please don't hesitate to reach out via email or schedule a meeting.</p>
   </section>

@@ -1,23 +1,23 @@
 # Site Settings
-title: "Tuan-Cuong Vuong — AI Research"
-description: "AI Researcher | Research Assistant"
-url: "https://cngvng.github.io"
+title: "Vu Ngoc Duong — Data Science Student"
+description: "Data Science Student | AI & Blockchain Research"
+url: "https://duongvn.github.io"
 baseurl: ""
 locale: "en-US"
 
 # Owner Information
-owner_name: "Tuan-Cuong Vuong"
-owner_affiliation: "Phenikaa University, Vietnam"
-owner_email: "cngvng.work@gmail.com"
+owner_name: "Vu Ngoc Duong"
+owner_affiliation: "National Economics University, Vietnam"
+owner_email: "vungocduong255@gmail.com"
 
 # Social Links
 socials:
-  scholar: "https://scholar.google.com/citations?user=GJuxF5QAAAAJ&hl=en"
-  orcid: "https://orcid.org/0000-0002-0999-1950"
-  github: "https://github.com/cngvng"
-  linkedin: "https://www.linkedin.com/in/cng-vng"
-  x: "https://x.com/cngvng413"
-  university: "https://phenikaa-uni.edu.vn"
+  scholar: ""
+  orcid: ""
+  github: ""
+  linkedin: "https://linkedin.com/in/ngoc-duong-47a-58292"
+  x: ""
+  university: "https://en.neu.edu.vn"
 
 # Build Settings
 plugins:
@@ -71,3 +71,6 @@ exclude:
   - .sass-cache
   - _site
   - README.md
+  - .venv
+  - pyproject.toml
+  - uv.lock

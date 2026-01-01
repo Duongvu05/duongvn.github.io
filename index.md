@@ -1,23 +1,30 @@
 ---
 layout: home
-title: "Tuan-Cuong Vuong — AI Research"
+title: "Vu Ngoc Duong — Data Science Student"
 intro: >
-  AI Researcher at AIoT Lab (Phenikaa University) and Research Assistant at Business AI Lab (NEU), Vietnam.
-  **I am seeking research collaborations and am actively pursuing a PhD position in AI/ML.**
+  Data Science Student at National Economics University, Vietnam. Research focus on AI and blockchain 
+  applications for transparent and data-driven financial solutions. I am passionate about applying 
+  AI for social good and seeking opportunities for research collaboration.
 
-  My work centers on Generative AI, multimodal learning & data fusion, and agentic multi-agent systems with LLMs.
-  I focus on healthcare and business/economics applications, and on LLM efficiency, reliability, and privacy-aware deployment.
+  My current research focuses on fraud detection in Ethereum using BERT4ETH and GCN-based architectures. 
+  I'm developing innovative Language Model + Graph Model pipelines for improved clustering performance.
 timeline:
-  - "2025–Present — Research Assistant, Business AI Lab (NEU), Vietnam"
-  - "2021–Present — Research Assistant, AIoT Lab, Phenikaa University"
-  - "2016–2020 — B.Sc. in Computer Science, Phenikaa University"
+  - "2023–Present — BSc Data Science in Economics and Business, National Economics University"
+  - "2024–Present — Research Intern, Business AI Lab, National Economics University"
+  - "2025 — Winner, Biztech Hackathon 2025: AI app for visually impaired users"
+  - "2025 — Media Ambassador, Future Business Analyst Competition, RMIT University Vietnam"
+  - "2025–Present — Mentor, Fulbright STEM Mentorship Program"
 portrait: "/assets/img/profile.png"
 ---
 
 ## About Me
 
-I am an AI researcher focused on building agentic, reliable, and efficient AI systems. My current interests include Generative AI, multimodal models (text–image–signal–structured data), and multi-agent frameworks powered by LLMs for knowledge-intensive reasoning. I also explore predictive representation learning (JEPA-style objectives) for compact, transferable embeddings.
+I am a Data Science student at National Economics University with a focus on applying artificial intelligence and blockchain technologies to develop transparent and data-driven financial solutions. My research interests center on fraud detection in cryptocurrency networks, particularly Ethereum blockchain transactions.
 
-At AIoT Lab (Phenikaa University), I have designed and deployed multi-agent systems for multi-document summarization, integrating RAG/GraphRAG and knowledge graphs to improve factuality and coverage. At Business AI Lab (NEU), I conduct multimodal AI research for healthcare and business, focusing on data fusion for decision support and trustworthy analytics; I also serve on the core proposal team to help draft research proposals and secure funding.
+Currently, I serve as a Research Intern at Business AI Lab, National Economics University, where I work on advanced fraud detection systems. My research involves reproducing and analyzing state-of-the-art models including BERT4ETH, Dynamic Feature Fusion, and ZipZap. I am developing a novel Language Model + Graph Model pipeline combined with Temporal Analysis that has achieved an F1-score of 94%, representing a 2% improvement over previous state-of-the-art methods.
 
-I value collaboration and open science. I’m looking to work with advisors and teams on agentic LLMs, multimodal fusion, JEPA-style representation learning, and efficient LLM serving (e.g., vLLM, QLoRA/AWQ, KV-cache optimization) with real-world impact in healthcare and business.
+My academic journey has been complemented by practical applications of AI technology for social impact. I won the Biztech Hackathon 2025 by developing SUPERVISION, an AI-powered mobile application that assists visually impaired users with navigation through YOLOv11 Nano for real-time obstacle detection. 
+
+I actively contribute to the academic community through mentoring roles in the Fulbright STEM Program, where I guide undergraduate students in their academic and career development. Additionally, I have served as a Media Ambassador for the Future Business Analyst Competition at RMIT University Vietnam, where I led a cross-cultural team in developing strategic solutions for social impact initiatives.
+
+I am seeking research opportunities and collaborations in artificial intelligence, blockchain applications, fraud detection, and computer vision technologies that create meaningful social impact.
